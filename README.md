@@ -10,3 +10,25 @@
 - загрузка и сдача заданий;
 - обмен сообщениями между студентом и преподавателем.
 
+# Структура проекта
+student_cabinet/
+
+│
+
+├── main.py
+
+├── models/
+
+│   └── student.py
+
+├── services/
+
+│   └── student_service.py
+
+├── views/
+
+│   └── console_view.py
+
+├── README.md
+
+└── .gitignore
